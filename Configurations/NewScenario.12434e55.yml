@@ -1,0 +1,16 @@
+id: b427a7a6-fbdc-4557-a29a-1a6464f16b42
+type: scenario
+annotations:
+- namespace: c4modeler
+  name: position
+  value:
+    51226b30-a740-411b-82f6-9916023e1533:
+      x: 140
+      y: 670.5
+name: NewScenario
+description: Description for NewScenario
+children:
+- id: c0db05fc-af11-4e13-8a80-bb41c5e50ba2
+  type: state
+- id: f2390bc9-4e23-4aac-826a-ceef687718c1
+  type: state

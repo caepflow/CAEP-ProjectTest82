@@ -1,0 +1,33 @@
+id: f6a9c0fe-466a-4c86-9417-850c909c89f7
+name: SoftwareSystem
+type: software-system
+description: This is a sample software system configuration for C4 model generation.
+annotations:
+- namespace: c4modeler
+  name: position
+  value:
+    context:
+      x: 90.5
+      y: 280
+    container:
+      x: 379
+      y: 240.5
+    f359d254-c008-4f24-b670-cbebb0a9bad6:
+      x: 90.5
+      y: 285.5
+- namespace: c4modeler
+  name: boundary
+  value:
+    x: 259.25
+    y: 377.5
+    width: 518.5
+    height: 755
+children:
+- id: a6e59744-894e-4626-bf9e-9a8a9c159000
+  type: service
+- id: 57457813-9f10-4ed0-b14b-9bfa01d4f150
+  type: database
+- id: fa8dc69e-992c-4d6e-9661-1fc98fef81b6
+  type: gateway
+- id: 51226b30-a740-411b-82f6-9916023e1533
+  type: web-application
