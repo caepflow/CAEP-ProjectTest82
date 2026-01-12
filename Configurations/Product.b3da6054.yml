@@ -10,7 +10,7 @@ annotations:
         y: 251.78500496524327
 entityType: domain
 name: Product
-description: Product
+description: Product 1
 useRepository: true
 fields:
   - type: string
