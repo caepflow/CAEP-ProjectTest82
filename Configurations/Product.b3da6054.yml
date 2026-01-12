@@ -1,0 +1,30 @@
+id: c8a667ae-d4c5-fc5a-a711-0a0fa603adb8
+type: entity
+interactions: []
+annotations:
+  - namespace: c4modeler
+    name: position
+    value:
+      14eff592-7f1f-4b57-b7b9-85a0d46f8770:
+        x: 336.6186693147965
+        y: 251.78500496524327
+entityType: domain
+name: Product
+description: Product
+useRepository: true
+fields:
+  - type: string
+    description: New Field
+    isPublic: true
+    enumerable: true
+    name: name
+  - type: string
+    description: New Field
+    isPublic: true
+    enumerable: true
+    name: type
+  - type: decimal
+    description: New Field
+    isPublic: true
+    enumerable: true
+    name: price
